@@ -1,0 +1,16 @@
+#corpo{
+ text-align: center;
+background-color: rgb(129, 247, 225);
+}
+
+h1{
+    border-style: dotted;
+}
+p{
+    background-color:aliceblue; 
+    width:500px; 
+    margin-left:500px;
+}
+.menu{
+    text-align: center;
+}
